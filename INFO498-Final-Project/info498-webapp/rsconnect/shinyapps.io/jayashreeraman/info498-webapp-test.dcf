@@ -1,0 +1,12 @@
+name: info498-webapp-test
+title: info498-webapp-test
+username:
+account: jayashreeraman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 351212
+bundleId: 1400725
+url: https://jayashreeraman.shinyapps.io/info498-webapp-test/
+when: 1527694195.96341
+asMultiple: FALSE
+asStatic: FALSE
